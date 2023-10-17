@@ -438,7 +438,7 @@ try:
 				txt.append("&")
 			
 			elif x == 39:
-				txt.append("&")
+				txt.append("'")
 			
 			elif x == 40:
 				txt.append("(")
