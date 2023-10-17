@@ -2,11 +2,11 @@
 import streamlit as st
 import pandas as pd
 
-st.set_page_config(layout="wide", page_title="Text-to-Bit Encoder")
+st.set_page_config(layout="wide", page_title="Text/Binary Encoder")
 
 try:
 
-	st.title("Text-to-Bit Encoder")
+	st.title("Text/Binary Encoder")
 	st.write("---")
 
 	err = 0
